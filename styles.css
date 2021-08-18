@@ -1,0 +1,18 @@
+
+h1 {
+
+  text-align: center;
+  color: yellow
+}
+h2{
+  text-align: center;
+  color: white
+}
+body{
+  background-image: url(https://s1.lesgrappes.com/media/osaka/slideshowmanufacturers/domaine-les-cailloux-vue-haute-vignoble.jpg);
+}
+.teste{
+  border-style: solid;
+  color border: blue;
+}
+
